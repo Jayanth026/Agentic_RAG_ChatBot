@@ -1,0 +1,13 @@
+langchain
+openai
+python-dotenv
+faiss-cpu
+pypdf
+python-pptx
+python-docx
+pandas
+PyYAML
+tiktoken
+sentence-transformers
+uvicorn
+fastapi
