@@ -58,7 +58,6 @@ Create a `.env` file and add necessary keys:
 
 ```env
 OPENAI_API_KEY=your_key_here
-MODEL_ENDPOINT=your_model_url_here
 ```
 
 ---
