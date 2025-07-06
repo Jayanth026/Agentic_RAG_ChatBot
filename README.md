@@ -66,7 +66,7 @@ MODEL_ENDPOINT=your_model_url_here
 ## Usage
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 Interact with the chatbot to upload documents and ask questions based on their content.
